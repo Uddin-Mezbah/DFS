@@ -1,0 +1,40 @@
+
+10)The Data structure used in standard implementation of Breadth First Search is?
+Answer:-Queue
+
+9)Which of the follwing is TRUE?S1: Suppose we do a DFS on a directed graph G.
+If we remove all of the back edges found, the resulting graph is now acyclic.
+S2: For a directed graph, the absence of back edges with respect to a BFS tree
+implies that the graph is acyclic.
+Answer:-s1 is true and s2 is false
+
+8)Is the following statement true.A DFS of a directed graph always produces the
+same number of tree edges,
+i.e.independent of the order in which the vertices are considered for DFS.
+Answer:-No
+
+7)Traversal of a graph is different than tree because.
+Answer:- there can be a loop in the graph
+
+6)Regarding implementation of Depth First Search using stacks,
+what is the maximum distance between two nodes present in the stack?
+(considering each edge length 1)
+Answer:- Can be anything
+
+5)Choose the incorrect statement about DFS and BFS from the following?
+Answer:-Dfs is equivalent to post order traversal in tree
+
+4)The Depth First Search traversal of a graph will result into?
+Answer:- Tree
+
+3)The Data structure used in standard implementation of Depth First Search is?
+Answer:- Stack
+
+2)Time Complexity of DFS is? (V – number of vertices, E – number of edges)
+Answer:- O(V+E)
+
+1)Depth First Search is equivalent to which of the traversal in the Binary Trees?
+Answer:- pre-order Traversal
+
+
+
